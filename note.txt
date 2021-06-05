@@ -1,0 +1,15 @@
+// to commit and push on your repo:
+
+git init  - initialize
+git status - check  
+git add . if untracked
+git commit -m "message"
+git push origin master
+
+// cloning the project
+
+git clone http.....projectlink
+
+//pulling the updates
+
+git pull origin master
